@@ -19,3 +19,4 @@ Please view the license. Improvements and new feature additions are very welcome
 
 ## Libraries used (many thanks to their authors)
 * [CitizenFX.Core.Client](https://www.nuget.org/packages/CitizenFX.Core.Client)
+* [Newtonsoft.Json](https://www.nuget.org/packages/newtonsoft.json/12.0.2)
