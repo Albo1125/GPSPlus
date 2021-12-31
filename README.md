@@ -1,5 +1,5 @@
 # GPSPlus
-GPSPlus is a resource for FiveM by Albo1125 that provides GPS functionality based on street names.
+GPSPlus is a resource for FiveM by Albo1125 that provides GPS functionality based on street names. It is available at [https://github.com/Albo1125/GPSPlus](https://github.com/Albo1125/GPSPlus)
 
 ## Installation & Usage
 1. Download the latest release.
